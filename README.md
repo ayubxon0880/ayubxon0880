@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayubxon</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 
-- 🔭 I’m currently working on [Naqdvision](https://naqdvision.uz)
+- 🔭 I’m currently working on [UIC Games](https://uicgames.uz)
 
-- 🌱 I’m currently learning **Python Yolov8, Computer Vision**
+- 🌱 I’m currently learning **Microservices**
 
 - 👨‍💻 All of my projects are available at [https://programmernt.vercel.app](https://programmernt.vercel.app)
 
@@ -11,13 +11,12 @@
 
 - 📫 How to reach me **ayubxonnt@gmail.com**
 
-- 📄 Know about my experiences [https://programmernt.vercel.app](https://programmernt.vercel.app)
+- 📄 Know about my experiences [Portfolio](https://bubble-route-334.notion.site/Portfolio-236b676deedc803e8b85f6c92145010a?pvs=74)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ayubxon-obidov-752b6626b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayubxon-obidov-752b6626b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayubxon-obidov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayubxon-obidov" height="30" width="40" /></a>
 <a href="https://instagram.com/spring_wizard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayubxon.1401" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/ayubxonnt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayubxon0880" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
