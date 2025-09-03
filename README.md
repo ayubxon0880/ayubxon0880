@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Microservices**
 
-- 👨‍💻 All of my projects are available at [https://programmernt.vercel.app](https://programmernt.vercel.app)
+- 👨‍💻 All of my projects are available at [Portfolio]([https://programmernt.vercel.app](https://bubble-route-334.notion.site/Portfolio-236b676deedc803e8b85f6c92145010a?pvs=74))
 
 - 💬 Ask me about **Java, Spring, JPA**
 
